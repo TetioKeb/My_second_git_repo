@@ -1,0 +1,9 @@
+Powertrain system include 3 main components in an electric vehicle
+-Electric motor
+-Motor controller
+-Traction battery
+
+When sizing the powertrain for the elctric vehicle it is imperative to consider
+-weight of the vehicle
+-Terraine of the vehcile operation
+-Range to be covered per charge
